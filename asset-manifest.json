@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Product-Review-System/static/css/main.15621aac.css",
+    "main.js": "/Product-Review-System/static/js/main.a0291b67.js",
+    "static/js/787.50cbd815.chunk.js": "/Product-Review-System/static/js/787.50cbd815.chunk.js",
+    "index.html": "/Product-Review-System/index.html",
+    "main.15621aac.css.map": "/Product-Review-System/static/css/main.15621aac.css.map",
+    "main.a0291b67.js.map": "/Product-Review-System/static/js/main.a0291b67.js.map",
+    "787.50cbd815.chunk.js.map": "/Product-Review-System/static/js/787.50cbd815.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15621aac.css",
+    "static/js/main.a0291b67.js"
+  ]
+}
