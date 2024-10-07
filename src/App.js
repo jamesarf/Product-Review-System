@@ -5,7 +5,7 @@ import ProductReviews  from './components/ProductReviews';
 function App() {
   return (
     <div className="App container">
-      <ProductDetail/>
+      <ProductReviews/>
     </div>
   );
 }

@@ -11,7 +11,7 @@ const ReviewForm = ({ handleReviewSubmit }) => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        if(review.rating == 0){
+        if(review.rating === 0){
             alert("Please select a rating.");
             return;
         }
