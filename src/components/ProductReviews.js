@@ -6,7 +6,7 @@ import { faStar as faStarRegular } from '@fortawesome/free-regular-svg-icons';
 import Review from './Review';
 import ReviewForm from './ReviewForm';
 
-const ProductDetail = () => {
+const ProductReviews = () => {
     const [productReviews, setProductReviews] = useState([
         { id: 1, author: 'Alice', text: 'Excellent service!', rating: 4 },
         { id: 2, author: 'Bob', text: 'Good product.', rating: 3 },
@@ -70,4 +70,4 @@ const ProductDetail = () => {
     );
 };
 
-export default ProductDetail;
+export default ProductReviews;

@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import ProductDetail  from './components/ProductDetail';
+import ProductReviews  from './components/ProductReviews';
 
 function App() {
   return (
