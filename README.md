@@ -13,7 +13,7 @@ This is a **Product Review System** built with React that allows users to submit
 ## Live Demo
 
 You can check the live version of the project here:  
-[Live Demo](https://jamesarf.github.io/Product-Review-System/)
+[Live Demo: Deployed via GitHub Pages] (https://jamesarf.github.io/Product-Review-System/)
 
 ## Installation
 
